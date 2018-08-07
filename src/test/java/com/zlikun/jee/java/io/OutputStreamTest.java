@@ -1,4 +1,4 @@
-package com.zlikun.jee.java.util;
+package com.zlikun.jee.java.io;
 
 import org.junit.Test;
 
